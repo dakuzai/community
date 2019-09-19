@@ -8,6 +8,9 @@ https://github.com/dakuzai/community
 [es](https://elasticsearch.cn/explore)
 [Github deploy key](https://developer.github.com/v3/guides/managing-deploy-keys/#deploy-keys)
 [Github OAuth](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
+[Spring Boot Mybatis](http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/index.html)
+[Spring](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#boot-features-embedded-database-support)
+[flyWay](https://flywaydb.org/)
 
 ## 工具
 [Git](https://git-scm.com/downloads)
